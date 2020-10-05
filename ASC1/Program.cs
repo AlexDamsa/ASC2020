@@ -6,7 +6,7 @@ namespace ASC1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World of C#!!");
+            Console.WriteLine("Salut!");
             Console.WriteLine("Introduceti numarul de pantof: ");
 
             int numarPantof;
